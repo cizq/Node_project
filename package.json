@@ -1,0 +1,17 @@
+{ 
+ "name": "nodej-image-demo",
+ "version": "1.0.0",
+ "description": "noodejs image demo",
+ "author" : "cizquierdogozal@gmail.com",
+ "license": "MIT",
+ "main": "app.js",
+ "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+ "dependencies": {
+    "express": "4.18.2"
+  }
+
+}
